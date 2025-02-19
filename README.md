@@ -16,8 +16,7 @@ This project focuses on designing and implementing a keypad-based servo lock sys
 You can view and test this project in **Tinkercad** here:  
 👉 [Click to Open Simulation](https://www.tinkercad.com/things/42jR8zw3rga-door-lock)
 
-## 📄 Project Documentation  
-Full project details can be found in files.
+## 📄 Project Documentation can be found in PDF.
 
 
 
