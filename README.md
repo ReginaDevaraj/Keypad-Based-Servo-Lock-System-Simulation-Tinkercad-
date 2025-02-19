@@ -17,8 +17,7 @@ You can view and test this project in **Tinkercad** here:
 👉 [Click to Open Simulation](https://www.tinkercad.com/things/42jR8zw3rga-door-lock)
 
 ## 📄 Project Documentation  
-Full project details can be found in the PDF:  
-📥 [Download Here](file:///D:/IoT/Personal%20Projects/Door%20Lock%20(Tinkercad)/REGINA%20D%20-%20PROJECT%202(%20KEYPAD-BASED%20SERVO%20LOCK%20SYSTEM%20SIMULATION%20IN%20TINKERCAD).pdf)
+Full project details can be found in files.
 
 
 
